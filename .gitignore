@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# PHPStorm
+.idea/
+
+# Локальные конфигурационные файлы
+.env
+
+# Логи и временные файлы
+logs/
+*.log
+*.tmp
+
+# Системные файлы
+Thumbs.db
+Desktop.ini
+
+.editorconfig
